@@ -1,0 +1,6 @@
+print('=====DESAFIO 02=====')
+print('Informe abaixo a data do seu nascimento')
+dia = input('Dia: ')
+mes = input('Mês: ')
+ano = input('Ano: ')
+print('Você nasceu no dia ', dia ,' do mês de ',  mes,' em ', ano,'. Correto?')
